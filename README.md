@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="center">Hi 👋, I'm Moin Nazeer</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
